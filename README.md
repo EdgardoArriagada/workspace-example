@@ -1,3 +1,5 @@
+_almost all of this was taken from [this vid](https://www.youtube.com/watch?v=70_9IIsQfjs)_
+
 this is just me playing around with rust workspaces
 
 - to add a command, do
