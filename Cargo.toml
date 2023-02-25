@@ -1,2 +1,2 @@
 [workspace]
-members = ["adder", "shared/add-one"]
+members = ["adder", "adder-two", "shared/add-one", "shared/add-two"]
